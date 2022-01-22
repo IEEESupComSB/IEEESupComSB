@@ -2,7 +2,7 @@
 **IEEESupComSB/IEEESupComSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Hi there 👋
 
-🔭-IEEE Sup'Com Student Branch
+🔭 We are IEEE Sup'Com Student Branch
 
 IEEE SUP’COM student branch was founded in 2011 by 3 students. And ever since the student branch gained more and more members and had a blooming activity. As we keep challenging ourselves. It now has more that 150 members and 4 chapters, hence ranked ✨3rd ✨ in IEEE Tunisia Section.
 <br />
