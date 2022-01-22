@@ -23,8 +23,7 @@ Our Activities
 Our Chapters:
 
   SB: https://supcom.ieee.tn/  
-<br />
-
+  <br />
   CS: https://cs-supcom.ieee.tn/
   <br />
   GRSS: https://grss-supcom.ieee.tn/
@@ -35,6 +34,7 @@ Our Chapters:
   <br />
 
 📫 How to reach Us:
+  <br />
   Facebook: https://www.facebook.com/IEEE.SupCom.SB 
   <br />
   Instagram: https://www.instagram.com/ieeesupcomsb/
