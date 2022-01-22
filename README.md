@@ -14,6 +14,7 @@ Our Activities
 Our Chapters:
 
   SB: https://supcom.ieee.tn/  
+  
   CS: https://cs-supcom.ieee.tn/
   
   GRSS: https://grss-supcom.ieee.tn/
