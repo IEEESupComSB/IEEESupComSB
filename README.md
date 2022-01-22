@@ -4,7 +4,7 @@ Hi there 👋
 
 🔭-IEEE Sup'Com Student Branch
 
-IEEE SUP’COM student branch was founded in 2011 by 3 students. And 2 years ago the student branch started to gain more members and had a blooming activity ever sense. It now has more that 150 members and 4 chapters, hence ranked ✨3rd ✨ in IEEE Tunisia Section.
+IEEE SUP’COM student branch was founded in 2011 by 3 students. And ever since the student branch gained more and more members and had a blooming activity. As we keep challenging ourselves. It now has more that 150 members and 4 chapters, hence ranked ✨3rd ✨ in IEEE Tunisia Section.
 <br />
 Our Activities
   ✨-Contests
